@@ -1,7 +1,7 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
-用于编译诺基亚贝尔(ea0326gmp)的openWrt固件[源码](https://github.com/1715173329/immortalwrt-mt798x
+用于编译诺基亚贝尔(ea0326gmp)的immortalwrt固件,源码来自[immortalwrt-mt798x](https://github.com/1715173329/immortalwrt-mt798x
 );
 编译脚本来自[P3TERX](https://github.com/P3TERX/Actions-OpenWrt)
 ## License
