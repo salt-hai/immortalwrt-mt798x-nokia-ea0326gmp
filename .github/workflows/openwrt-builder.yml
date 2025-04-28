@@ -18,8 +18,8 @@ on:
 
 env:
 # 固件源码
-  REPO_URL: https://github.com/1715173329/immortalwrt-mt798x
-  REPO_BRANCH: nokia
+  REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x
+  REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
